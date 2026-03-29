@@ -1,0 +1,1172 @@
+,title,experience,location,currency,salary
+0,Data scientist,Senior,New York City,USD,149000
+2,Data scientist,Senior,Boston,USD,120000
+3,Data scientist,Senior,London,USD,68000
+4,Data scientist,Senior,Boston,USD,120000
+5,Data scientist,Senior,New York City,USD,149000
+6,Data scientist,Senior,London,USD,68000
+7,Data scientist,Senior,Research Triangle Park,USD,69000
+8,Data scientist,Senior,Sydney,USD,68000
+9,Data scientist,Senior,San Francisco,USD,140000
+10,Data scientist,Senior,Sofia,USD,68000
+12,Data scientist,Entry,BangPa-in,USD,35000
+15,Data scientist,Senior,Berlin,USD,68000
+17,Data scientist,Senior,NAMER,USD,68000
+18,Data scientist,Senior,Remote,USD,68000
+20,Data scientist,Senior,San Jose,USD,68000
+22,Data scientist,Senior,Petaling Jaya,USD,55000
+23,Data scientist,Senior,Englewood,USD,68000
+24,Data scientist,Senior,Pune,USD,68000
+25,Data scientist,Senior,London,USD,68000
+26,Data scientist,Mid,Remote,USD,40000
+27,Data scientist,Entry,Paris,USD,36000
+28,Data scientist,Entry,Paris,USD,36000
+30,Data scientist,Mid,Gothenburg,USD,40000
+31,Data scientist,Entry,Mountain View,USD,56000
+32,Data scientist,Executive,San Francisco,USD,130000
+34,Data scientist,Senior,San Jose,USD,68000
+35,Data scientist,Senior,Porto,USD,56000
+36,Data scientist,Entry,Mountain View,USD,56000
+37,Data scientist,Senior,Ontario,USD,68000
+38,Data scientist,Senior,Brooklyn,USD,104000
+40,Data scientist,Mid,Sydney,USD,62000
+41,Data scientist,Senior,Remote- US,USD,150000
+42,Data scientist,Senior,Cambridge,USD,68000
+44,Data scientist,Mid,La Libertad,USD,40000
+45,Data scientist,Senior,San Francisco,USD,161000
+47,Data scientist,Senior,London,USD,68000
+48,Data scientist,Senior,Lithuania | UK,USD,68000
+50,Data scientist,Senior,Chicago,USD,68000
+51,Data scientist,Senior,Remote,USD,68000
+52,Data scientist,Senior,Remote- US,USD,150000
+53,Data scientist,Mid,United Kingdom - Remote,USD,40000
+55,Data scientist,Senior,Santiago,USD,68000
+57,Data scientist,Senior,Nairobi,USD,68000
+60,Data scientist,Mid,Luxembourg,USD,40000
+61,Data scientist,Senior,San Francisco OR Remote US Canada,USD,68000
+62,Data scientist,Senior,Paris,USD,68000
+63,Data scientist,Mid,Lyon,USD,40000
+64,Data scientist,Senior,Montreal,USD,56000
+65,Data scientist,Senior,Remote,USD,68000
+66,Data scientist,Entry,Princeton,USD,74000
+67,Data scientist,Mid,California,USD,40000
+68,Data scientist,Senior,Athens,USD,68000
+69,Data scientist,Senior,London,USD,56000
+70,Data scientist,Entry,Charenton-Le-Pont,USD,36000
+72,Data scientist,Senior,San Francisco,USD,68000
+73,Data scientist,Senior,Aberdeen,USD,68000
+75,Data scientist,Mid,Brampton,USD,40000
+78,Data scientist,Senior,Salt Lake City,USD,68000
+79,Data scientist,Mid,Munich,USD,40000
+80,Data scientist,Mid,Oslo,USD,40000
+81,Data scientist,Senior,Basel,USD,68000
+82,Data scientist,Mid,Düsseldorf,USD,40000
+83,Data scientist,Entry,Paris,USD,36000
+84,Data scientist,Senior,Madrid,EUR,36000
+85,Data scientist,Mid,Austin,USD,40000
+86,Data scientist,Mid,Dallas,USD,40000
+88,Data scientist,Senior,Warsaw,USD,120000
+89,Data scientist,Mid,Houston,USD,40000
+90,Data scientist,Senior,Hyderabad,USD,68000
+92,Data scientist,Senior,Sofia,USD,68000
+93,Data scientist,Senior,Boston,USD,110000
+94,Data scientist,Senior,Paris,USD,68000
+95,Data scientist,Senior,Zurich,USD,68000
+96,Data scientist,Senior,London,USD,68000
+97,Data scientist,Senior,London,USD,68000
+98,Data scientist,Senior,New York City,USD,81000
+99,Data scientist,Entry,Palaiseau,USD,36000
+100,Data scientist,Entry,Burnaby,USD,36000
+102,Data scientist,Senior,Lisbon,USD,68000
+103,Data scientist,Senior,Tel Aviv-Yafo,USD,68000
+104,Data scientist,Mid,United Kingdom - Remote,USD,40000
+105,Data scientist,Senior,United States,USD,152000
+106,Data scientist,Mid,Toronto,USD,40000
+107,Data scientist,Senior,Indianapolis,USD,68000
+109,Data scientist,Mid,Athens,USD,51000
+111,Data scientist,Mid,New York City,USD,40000
+112,Data scientist,Senior,New York,USD,95000
+113,Data scientist,Senior,London,USD,68000
+115,Data scientist,Mid,Dayton,USD,40000
+116,Data scientist,Senior,Seoul,USD,68000
+117,Data scientist,Entry,Glasgow,USD,36000
+118,Data scientist,Mid,Emeryville,USD,135000
+120,Data scientist,Entry,Massy - France,USD,36000
+121,Data scientist,Senior,San Francisco,USD,68000
+123,Data scientist,Mid,Paris,EUR,50000
+125,Data scientist,Senior,Belo Horizonte,USD,68000
+127,Data scientist,Senior,Oakville,USD,68000
+130,Data scientist,Senior,Midrand,USD,68000
+131,Data scientist,Mid,Roppongi,USD,40000
+132,Data scientist,Senior,Solna,USD,68000
+133,Data scientist,Senior,Santa Clara,USD,68000
+134,Data scientist,Mid,Emeryville,USD,120000
+137,Data scientist,Senior,Boston,USD,68000
+139,Data scientist,Entry,Calabasas,USD,120000
+141,Data scientist,Senior,Bangkok,USD,68000
+142,Data scientist,Senior,London,USD,68000
+143,Data scientist,Mid,Ahmedabad,USD,40000
+144,Data scientist,Senior,Lisbon,USD,68000
+145,Data scientist,Entry,Roppongi,USD,56000
+146,Data scientist,Senior,Remote,USD,68000
+147,Data scientist,Senior,Brooklyn,USD,196000
+148,Data scientist,Senior,Dallas,USD,68000
+149,Data scientist,Senior,New York City,USD,125000
+150,Data scientist,Entry,Lisboa,USD,36000
+151,Data scientist,Senior,Markham,USD,68000
+152,Data scientist,Senior,Athina,USD,68000
+153,Data scientist,Mid,London,USD,40000
+154,Data scientist,Mid,Berlin,USD,40000
+155,Data scientist,Senior,Chicago,USD,68000
+156,Data scientist,Entry,Norfolk,USD,36000
+157,Data scientist,Senior,Boston,USD,68000
+158,Data scientist,Senior,Remote (DC),USD,68000
+159,Data scientist,Senior,Bengaluru,USD,68000
+160,Data scientist,Senior,Tel Aviv-Yafo,USD,68000
+161,Data scientist,Mid,Houston,USD,40000
+162,Data scientist,Senior,Seattle,USD,68000
+163,Data scientist,Senior,Norfolk,USD,68000
+164,Data scientist,Senior,Belfast,USD,68000
+165,Data scientist,Senior,Toronto,USD,68000
+166,Data scientist,Mid,Toronto,USD,40000
+167,Data scientist,Senior,Remote - United States,USD,68000
+168,Data scientist,Entry,Toronto,USD,36000
+169,Data scientist,Senior,Tampa,USD,68000
+170,Data scientist,Senior,Berlin,USD,68000
+171,Data scientist,Mid,Düsseldorf,USD,40000
+172,Data scientist,Senior,Düsseldorf,USD,68000
+174,Data scientist,Entry,Amsterdam,USD,36000
+175,Data scientist,Senior,Amsterdam,USD,68000
+177,Data scientist,Mid,Munich,USD,40000
+178,Data scientist,Mid,Lyon,USD,51000
+179,Data scientist,Senior,Basel,USD,68000
+180,Data scientist,Mid,Oslo,USD,40000
+181,Data scientist,Senior,Longueuil,USD,68000
+182,Data scientist,Senior,Glattbrugg,USD,56000
+183,Data scientist,Senior,New York City,USD,70000
+184,Data scientist,Senior,Atlanta,USD,120000
+185,Data scientist,Senior,Toronto,USD,68000
+186,Data scientist,Mid,Barcelona,USD,40000
+187,Data scientist,Mid,London,USD,51000
+188,Data scientist,Senior,Madrid,EUR,36000
+189,Data scientist,Mid,Abu Dhabi,USD,51000
+190,Data scientist,Mid,Berlin,USD,40000
+191,Data scientist,Senior,Fort Bragg,USD,68000
+192,Data scientist,Senior,Remote - US,USD,68000
+193,Data scientist,Senior,San Francisco,USD,129000
+194,Data scientist,Mid,Singapore,USD,51000
+195,Data scientist,Senior,Toronto,USD,68000
+197,Data scientist,Senior,Berlin,USD,120000
+198,Data scientist,Mid,London,USD,40000
+199,Data scientist,Mid,Brampton,USD,40000
+200,Data scientist,Senior,UK,USD,68000
+201,Data scientist,Senior,Aarhus,USD,68000
+203,Data scientist,Senior,Canada,USD,68000
+205,Data scientist,Mid,Remote,USD,115000
+206,Data scientist,Senior,Berlin,USD,120000
+207,Data scientist,Senior,Redwood City,USD,68000
+208,Data scientist,Senior,Berlin,USD,68000
+209,Data scientist,Mid,Paris,USD,40000
+210,Data scientist,Entry,Burnaby,USD,36000
+212,Data scientist,Senior,Remote - United States,USD,56000
+213,Data scientist,Senior,Remote - US,USD,68000
+215,Data scientist,Senior,India,USD,68000
+216,Data scientist,Senior,Remote,USD,68000
+217,Data scientist,Senior,Heredia,USD,68000
+218,Data scientist,Senior,Jealott's Hill,USD,68000
+219,Data scientist,Mid,Mountain View,USD,90000
+220,Data scientist,Senior,Miami - will also consider remote in …,USD,68000
+221,Data scientist,Senior,Porto,USD,68000
+222,Data scientist,Senior,Tel Aviv,USD,68000
+223,Data scientist,Mid,West Jakarta,USD,40000
+224,Data scientist,Entry,Paris,USD,36000
+225,Data scientist,Entry,Montreal,USD,36000
+226,Data scientist,Mid,Berlin,EUR,58000
+228,Data scientist,Mid,United States - Remote,USD,62000
+231,Data scientist,Senior,Toronto,USD,68000
+233,Data scientist,Senior,Remote,USD,132000
+234,Data scientist,Entry,North Reading,USD,56000
+236,Data scientist,Senior,London,USD,68000
+237,Data scientist,Entry,Sunnyvale,USD,36000
+238,Data scientist,Senior,London,USD,68000
+239,Data scientist,Mid,Dallas,USD,40000
+240,Data scientist,Senior,Boston,USD,68000
+241,Data scientist,Mid,Suitland-Silver Hill,USD,51000
+242,Data scientist,Entry,Paris,USD,36000
+243,Data scientist,Senior,Chicago,USD,68000
+244,Data scientist,Senior,London,USD,68000
+245,Data scientist,Senior,Hamburg,USD,68000
+246,Data scientist,Senior,Remote,USD,68000
+247,Data scientist,Senior,London,USD,68000
+248,Data scientist,Mid,Bang Kapi District,USD,40000
+249,Data scientist,Senior,London,USD,68000
+250,Data scientist,Senior,Remote job,USD,68000
+251,Data scientist,Senior,Tel Aviv,USD,68000
+252,Data scientist,Senior,Remote job,USD,68000
+253,Data scientist,Senior,Amsterdam,USD,120000
+254,Data scientist,Mid,København,USD,40000
+255,Data scientist,Senior,Cincinnati,USD,68000
+256,Data scientist,Senior,Dallas,USD,68000
+257,Data scientist,Senior,Singapore,USD,56000
+258,Data scientist,Senior,Stockholm,USD,68000
+259,Data scientist,Senior,Longueuil,USD,68000
+260,Data scientist,Senior,Renningen,USD,56000
+261,Data scientist,Entry,Paris,USD,36000
+262,Data scientist,Entry,Paris,USD,36000
+263,Data scientist,Senior,New York City,USD,120000
+264,Data scientist,Senior,Berlin,USD,68000
+265,Data scientist,Senior,Atlanta,USD,68000
+266,Data scientist,Senior,Bangkok,USD,68000
+268,Data scientist,Senior,Bangkok,USD,63000
+269,Data scientist,Senior,USA (remote),USD,68000
+270,Data scientist,Senior,New York,USD,145000
+271,Data scientist,Senior,New York City - Boston,USD,68000
+272,Data scientist,Mid,New York City,USD,40000
+273,Data scientist,Mid,Bangkok,USD,51000
+274,Data scientist,Mid,Brampton,USD,40000
+275,Data scientist,Senior,Seattle,USD,56000
+276,Data scientist,Mid,Hong Kong,USD,40000
+277,Data scientist,Senior,San Francisco,USD,129000
+279,Data scientist,Mid,Emeryville,USD,120000
+281,Data scientist,Entry,Berlin,USD,36000
+282,Data scientist,Senior,San Mateo,USD,68000
+284,Data scientist,Senior,Santa Clara,USD,68000
+285,Data scientist,Mid,Berlin,USD,40000
+286,Data scientist,Mid,Málaga,USD,40000
+287,Data scientist,Senior,Bangkok,USD,63000
+289,Data scientist,Senior,Madrid,USD,68000
+292,Data scientist,Mid,France - Remote,USD,40000
+293,Data scientist,Senior,Herndon,USD,122000
+295,Data scientist,Senior,Madrid,EUR,36000
+296,Data scientist,Mid,Porto,USD,40000
+297,Data scientist,Senior,Toronto,USD,120000
+299,Data scientist,Mid,Brussels,USD,40000
+300,Data scientist,Mid,Spain - Remote,USD,40000
+301,Data scientist,Senior,Helsinki,USD,68000
+302,Data scientist,Mid,Fort Belvoir,USD,40000
+303,Data scientist,Senior,San Jose,USD,56000
+305,Data scientist,Mid,London,USD,40000
+307,Data scientist,Senior,San Francisco,USD,68000
+308,Data scientist,Mid,Utrecht,USD,40000
+309,Data scientist,Mid,Ireland - Remote,USD,40000
+310,Data scientist,Entry,Sunnyvale,USD,36000
+311,Data scientist,Mid,Dubai,USD,40000
+314,Data scientist,Senior,Asia,USD,68000
+315,Data scientist,Senior,Ann Arbor,USD,68000
+317,Data scientist,Senior,New York City; San Francisco,USD,107000
+318,Data scientist,Senior,Remote,USD,68000
+319,Data scientist,Senior,Washington DC - will also consider remote …,USD,68000
+321,Data scientist,Senior,Canada,USD,68000
+322,Data scientist,Senior,Dubai,USD,68000
+324,Data scientist,Mid,Warsaw,USD,40000
+325,Data scientist,Mid,Lüneburg,USD,40000
+326,Data scientist,Entry,Saint-Denis,USD,36000
+327,Data scientist,Mid,Cambridge,USD,30000
+328,Data scientist,Mid,England,USD,40000
+329,Data scientist,Senior,Bengaluru,USD,68000
+331,Data scientist,Senior,Baar,USD,68000
+332,Data scientist,Senior,Indianapolis,USD,68000
+333,Data scientist,Senior,Ottawa,USD,68000
+334,Data scientist,Senior,Palo Alto,USD,56000
+337,Data scientist,Senior,Flexible,USD,68000
+338,Data scientist,Senior,Santiago de Querétaro,USD,68000
+339,Data scientist,Mid,London,USD,40000
+340,Data scientist,Entry,Remote,USD,36000
+341,Data scientist,Senior,New York City,USD,81000
+342,Data scientist,Senior,Kraków,USD,68000
+343,Data scientist,Mid,United States - Remote,USD,40000
+345,Data scientist,Entry,Paris,USD,36000
+347,Data scientist,Senior,Montreal,USD,68000
+348,Data scientist,Mid,Roppongi,USD,62000
+349,Data scientist,Senior,Valencia,USD,68000
+351,Data scientist,Senior,Berlin,USD,68000
+352,Data scientist,Mid,San Diego,USD,40000
+353,Data scientist,Senior,Berlin,USD,68000
+354,Data scientist,Senior,Remote,USD,68000
+356,Data scientist,Mid,Arlington,USD,40000
+357,Data scientist,Senior,San Francisco,USD,129000
+358,Data scientist,Senior,Brooklyn,USD,184000
+359,Data scientist,Mid,Milan,USD,40000
+360,Data scientist,Mid,Toronto,USD,40000
+361,Data scientist,Mid,Bengaluru,USD,62000
+362,Data scientist,Senior,Enkhuizen,USD,68000
+363,Data scientist,Senior,Berlin,USD,68000
+364,Data scientist,Senior,Barcelona,USD,68000
+365,Data scientist,Senior,Brooklyn,USD,104000
+366,Data scientist,Senior,Berlin,USD,68000
+367,Data scientist,Senior,Madrid,USD,56000
+368,Data scientist,Entry,Vienna,USD,36000
+369,Data scientist,Senior,Brooklyn,USD,130000
+370,Data scientist,Mid,Spain - Remote,USD,40000
+371,Data scientist,Mid,Dallas,USD,40000
+372,Data scientist,Senior,Mountain View,USD,68000
+373,Data scientist,Senior,Seattle,USD,68000
+374,Data scientist,Mid,Bordeaux,USD,40000
+375,Data scientist,Senior,Tel Aviv-Yafo,USD,68000
+376,Data scientist,Mid,Roppongi,USD,62000
+377,Data scientist,Senior,Warsaw,USD,68000
+379,Data scientist,Senior,Irving,USD,68000
+381,Data scientist,Senior,Warsaw,USD,56000
+382,Data scientist,Mid,Chelmsford,USD,87000
+383,Data scientist,Mid,Paris,USD,40000
+384,Data scientist,Senior,Dallas,USD,68000
+385,Data scientist,Senior,Chicago,USD,68000
+386,Data scientist,Senior,Mountain View,USD,56000
+387,Data scientist,Senior,Berlin,USD,68000
+388,Data scientist,Senior,United States,USD,68000
+389,Data scientist,Senior,Palo Alto,USD,68000
+391,Data scientist,Mid,Malmö,USD,40000
+392,Data scientist,Mid,Bengaluru,USD,38000
+393,Data scientist,Mid,London,USD,38000
+394,Data scientist,Senior,Hyderabad,USD,68000
+395,Data scientist,Senior,Bengaluru,USD,68000
+397,Data scientist,Senior,Berlin,USD,68000
+398,Data scientist,Senior,San Francisco,USD,68000
+401,Data scientist,Senior,Cape Town,USD,68000
+402,Data scientist,Senior,London,USD,68000
+405,Data scientist,Entry,Belgrade,USD,36000
+407,Data scientist,Senior,Chantilly,USD,68000
+408,Data scientist,Senior,Irving,USD,68000
+410,Data scientist,Senior,Brooklyn,USD,196000
+411,Data scientist,Mid,Málaga,USD,38000
+412,Data scientist,Senior,Brooklyn,USD,184000
+413,Data scientist,Mid,Bühl,USD,38000
+415,Data scientist,Senior,Mountain View,USD,68000
+416,Data scientist,Senior,Remote or San Francisco HQ,USD,196000
+417,Data scientist,Senior,Oakville,USD,68000
+418,Data scientist,Senior,Chennai,USD,68000
+419,Data scientist,Mid,Houston,USD,38000
+420,Data scientist,Senior,New York City,USD,68000
+421,Data scientist,Senior,Remote (within United States),USD,68000
+422,Data scientist,Senior,Los Gatos,USD,56000
+423,Data scientist,Mid,Houston,USD,38000
+424,Data scientist,Senior,Boston,USD,127000
+425,Data scientist,Senior,Jealott's Hill,USD,56000
+426,Data scientist,Mid,Greenville,USD,38000
+427,Data scientist,Senior,San Jose,USD,56000
+428,Data scientist,Senior,San Diego,USD,68000
+429,Data scientist,Mid,Austin,USD,38000
+432,Data scientist,Senior,Seoul,USD,68000
+433,Data scientist,Senior,San Francisco,USD,68000
+436,Data scientist,Mid,Lüneburg,USD,38000
+440,Data scientist,Senior,London,USD,68000
+441,Data scientist,Senior,Brooklyn,USD,184000
+442,Data scientist,Senior,San Francisco,USD,129000
+443,Data scientist,Senior,Austin,USD,68000
+444,Data scientist,Senior,Madrid,EUR,36000
+445,Data scientist,Senior,Berlin,USD,68000
+446,Data scientist,Entry,Saint-Denis,USD,36000
+448,Data scientist,Senior,Philadelphia,USD,129000
+449,Data scientist,Senior,Morrisville,USD,185000
+450,Data scientist,Senior,U.S. Remote,USD,68000
+452,Data scientist,Senior,Sunnyvale,USD,56000
+453,Data scientist,Senior,San Francisco,USD,68000
+454,Data scientist,Entry,Arlington,USD,36000
+455,Data scientist,Senior,Lexington,USD,68000
+456,Data scientist,Senior,Sunnyvale,USD,56000
+457,Data scientist,Senior,London,USD,68000
+459,Data scientist,Senior,Remote (California,USD,135000
+460,Data scientist,Mid,Düsseldorf,USD,38000
+463,Data scientist,Senior,United States,USD,93000
+464,Data scientist,Mid,Homestead,USD,38000
+465,Data scientist,Entry,Bourdeaux,USD,36000
+467,Data scientist,Senior,Boston,USD,129000
+469,Data scientist,Senior,London,USD,68000
+470,Data scientist,Senior,Bangkok,USD,46000
+471,Data scientist,Entry,Santa Clara,USD,36000
+472,Data scientist,Senior,Santa Clara,USD,68000
+473,Data scientist,Mid,London,USD,38000
+475,Data scientist,Senior,Taipei,USD,68000
+476,Data scientist,Senior,Paris or Remote from France,USD,68000
+477,Data scientist,Mid,Berlin,USD,38000
+478,Data scientist,Senior,Palo Alto,USD,56000
+479,Data scientist,Senior,San Francisco,USD,156000
+480,Data scientist,Senior,Dallas,USD,68000
+481,Data scientist,Senior,Helsinki,USD,68000
+482,Data scientist,Mid,Munich,USD,38000
+483,Data scientist,Senior,San Francisco,USD,129000
+484,Data scientist,Senior,Denver,USD,134000
+489,Data scientist,Senior,San Francisco,USD,172000
+490,Data scientist,Mid,Poznań,USD,38000
+491,Data scientist,Senior,Bangkok,USD,46000
+493,Data scientist,Mid,United Kingdom - Remote,USD,38000
+494,Data scientist,Mid,Bangkok,USD,51000
+496,Data scientist,Senior,Bengaluru,USD,68000
+497,Data scientist,Mid,South Jakarta,USD,38000
+500,Data analyst,Senior,Copenhagen,USD,62000
+501,Data analyst,Mid,Cluj,USD,51000
+503,Data analyst,Senior,Stuttgart,USD,62000
+504,Data analyst,Mid,Papendrecht,USD,51000
+506,Data analyst,Senior,Berlin,USD,63000
+507,Data analyst,Entry,Sarasota,USD,48000
+509,Data analyst,Senior,Jakarta,USD,63000
+510,Data analyst,Senior,Chicago,USD,63000
+512,Data analyst,Senior,Lexington,USD,63000
+513,Data analyst,Senior,Remote job,USD,63000
+514,Data analyst,Mid,Barcelona,USD,51000
+515,Data analyst,Mid,Bogotá,USD,45000
+518,Data analyst,Senior,United States,USD,76000
+519,Data analyst,Mid,Bracknell,USD,51000
+521,Data analyst,Senior,San Francisco,USD,140000
+522,Data analyst,Entry,London,USD,30000
+523,Data analyst,Senior,Remote,USD,63000
+524,Data analyst,Entry,Sandton,USD,30000
+525,Data analyst,Entry,Houston,USD,30000
+526,Data analyst,Senior,Dublin,USD,62000
+527,Data analyst,Mid,Bengaluru,USD,51000
+529,Data analyst,Senior,Washington,USD,81000
+531,Data analyst,Entry,Boston,USD,30000
+532,Data analyst,Senior,Atlanta,USD,110000
+533,Data analyst,Entry,Bogota,USD,30000
+535,Data analyst,Senior,London,USD,63000
+536,Data analyst,Mid,Boulogne-Billancourt,USD,51000
+537,Data analyst,Senior,Madrid,EUR,38000
+539,Data analyst,Executive,Kampala,USD,46000
+540,Data analyst,Mid,London,GBP,45000
+543,Data analyst,Senior,Boston,USD,63000
+544,Data analyst,Senior,Remote,USD,123000
+547,Data analyst,Senior,Somerville,USD,63000
+549,Data analyst,Senior,Kirkland,USD,63000
+550,Data analyst,Senior,Boston - Remote,USD,63000
+551,Data analyst,Senior,Munich,USD,62000
+553,Data analyst,Executive,Remote,USD,141000
+555,Data analyst,Senior,London,USD,63000
+557,Data analyst,Senior,Tampa,USD,63000
+561,Data analyst,Senior,Washington,USD,81000
+562,Data analyst,Mid,Riga,USD,51000
+564,Data analyst,Entry,Mexico City,USD,30000
+566,Data analyst,Senior,East Windsor,USD,63000
+567,Data analyst,Senior,Remote- US,USD,100000
+568,Data analyst,Senior,Remote,USD,127000
+569,Data analyst,Senior,Brooklyn,USD,104000
+570,Data analyst,Senior,West Palm Beach,USD,63000
+572,Data analyst,Mid,Monterrey,USD,51000
+574,Data analyst,Senior,Remote- US,USD,225000
+575,Data analyst,Entry,Stuttgart,USD,30000
+579,Data analyst,Senior,Medellín,USD,63000
+580,Data analyst,Senior,Berlin,USD,63000
+581,Data analyst,Senior,Campinas,USD,63000
+584,Data analyst,Mid,London,USD,51000
+585,Data analyst,Mid,Charlotte,USD,51000
+586,Data analyst,Senior,Campinas,USD,63000
+589,Data analyst,Senior,Tel-Aviv,USD,63000
+590,Data analyst,Mid,Cape Town,USD,51000
+591,Data analyst,Senior,San Francisco,USD,104000
+592,Data analyst,Senior,Brazil - Remote,USD,63000
+593,Data analyst,Mid,Newbury,GBP,45000
+596,Data analyst,Entry,Boulogne-Billancourt,USD,30000
+598,Data analyst,Senior,Brazil,USD,63000
+600,Data analyst,Entry,Paris or Remote from France,USD,30000
+603,Data analyst,Senior,Remote job,USD,63000
+604,Data analyst,Mid,Brussels,USD,51000
+606,Data analyst,Mid,Stanford,USD,51000
+608,Data analyst,Mid,Sector 62,USD,51000
+609,Data analyst,Senior,Mount Laurel Township,USD,63000
+610,Data analyst,Senior,Manila,USD,63000
+611,Data analyst,Senior,Bangkok,USD,63000
+612,Data analyst,Senior,United States,USD,63000
+613,Data analyst,Senior,Stuttgart,USD,63000
+615,Data analyst,Mid,Denver,USD,51000
+616,Data analyst,Senior,London,USD,63000
+619,Data analyst,Senior,Sydney,USD,63000
+620,Data analyst,Entry,Barcelona,USD,30000
+622,Data analyst,Entry,Katowice,USD,30000
+625,Data analyst,Senior,Montreal,USD,63000
+627,Data analyst,Mid,London,USD,51000
+628,Data analyst,Senior,Remote job,USD,63000
+629,Data analyst,Senior,East Windsor,USD,63000
+631,Data analyst,Senior,São Paulo,USD,76000
+632,Data analyst,Senior,Iași,USD,63000
+633,Data analyst,Senior,Chantilly,USD,119000
+635,Data analyst,Senior,Makati,USD,63000
+636,Data analyst,Senior,Remote - United States,USD,63000
+637,Data analyst,Entry,Stuttgart,USD,30000
+638,Data analyst,Senior,Remote - United States,USD,63000
+639,Data analyst,Senior,London,USD,63000
+640,Data analyst,Senior,Raleigh,USD,63000
+641,Data analyst,Senior,Charenton-Le-Pont,USD,63000
+642,Data analyst,Mid,London,USD,51000
+643,Data analyst,Senior,Barcelona,USD,63000
+645,Data analyst,Mid,Brampton,USD,51000
+646,Data analyst,Executive,Chennai,USD,46000
+648,Data analyst,Senior,Chennai,USD,63000
+649,Data analyst,Senior,UK,USD,63000
+652,Data analyst,Mid,Colorado Springs,USD,100000
+655,Data analyst,Entry,Porto,USD,30000
+660,Data analyst,Senior,New York City,USD,95000
+662,Data analyst,Senior,Paris,USD,63000
+663,Data analyst,Entry,Overland Park,USD,30000
+665,Data analyst,Mid,London,USD,51000
+667,Data analyst,Senior,Washington,USD,81000
+668,Data analyst,Mid,Seattle,USD,51000
+669,Data analyst,Senior,Hamburg,USD,63000
+670,Data analyst,Entry,Pyrmont,USD,30000
+671,Data analyst,Mid,Philadelphia,USD,51000
+676,Data analyst,Senior,Helsinki,USD,63000
+677,Data analyst,Senior,Richardson,USD,63000
+678,Data analyst,Entry,Downers Grove,USD,30000
+680,Data analyst,Mid,Chicago,USD,51000
+683,Data analyst,Senior,Pittsburgh,USD,63000
+688,Data analyst,Senior,United States,USD,152000
+689,Data analyst,Executive,Remote,USD,41000
+692,Data analyst,Senior,Tel Aviv,USD,63000
+697,Data analyst,Mid,Athens,USD,51000
+698,Data analyst,Mid,Bengaluru,USD,51000
+699,Data analyst,Mid,New York City,USD,40000
+702,Data analyst,Senior,United States,USD,125000
+705,Data analyst,Senior,Wilmington,USD,63000
+707,Data analyst,Senior,Indianapolis,USD,55000
+708,Data analyst,Mid,Arlington,USD,51000
+709,Data analyst,Entry,High Wycombe,USD,30000
+711,Data analyst,Senior,Singapore,USD,63000
+712,Data analyst,Mid,Paris,USD,51000
+713,Data analyst,Mid,United Kingdom - Remote,USD,51000
+714,Data analyst,Senior,Berlin,USD,94000
+715,Data analyst,Entry,Lyon,USD,30000
+717,Data analyst,Entry,Heredia,USD,30000
+720,Data analyst,Entry,Downers Grove,USD,30000
+721,Data analyst,Mid,Monterrey,USD,51000
+722,Data analyst,Senior,Remote,USD,70000
+724,Data analyst,Senior,Remote,USD,140000
+726,Data analyst,Mid,Roppongi,USD,51000
+728,Data analyst,Senior,London,USD,63000
+729,Data analyst,Entry,Milan,USD,30000
+730,Data analyst,Senior,Porto,USD,63000
+731,Data analyst,Senior,United States,USD,63000
+732,Data analyst,Senior,Campinas,USD,63000
+733,Data analyst,Mid,Munich,USD,51000
+735,Data analyst,Mid,Pune,USD,51000
+736,Data analyst,Mid,London,USD,51000
+737,Data analyst,Senior,North Macedonia,USD,63000
+740,Data analyst,Entry,Carquefou,USD,30000
+741,Data analyst,Senior,Bangkok,USD,68000
+743,Data analyst,Mid,Chiasso,USD,51000
+744,Data analyst,Senior,Seattle,USD,63000
+747,Data analyst,Senior,Seoul,USD,63000
+748,Data analyst,Entry,Bucharest,USD,30000
+749,Data analyst,Mid,United Kingdom - Remote,USD,51000
+750,Data analyst,Mid,Angeles,USD,51000
+753,Data analyst,Entry,Singapore,USD,30000
+754,Data analyst,Senior,Palta Cyprus,USD,63000
+755,Data analyst,Senior,Remote - United States,USD,63000
+758,Data analyst,Entry,Muntinlupa,USD,30000
+760,Data analyst,Entry,Lausanne,USD,30000
+762,Data analyst,Senior,Remote,USD,63000
+763,Data analyst,Senior,Remote - United States,USD,89000
+765,Data analyst,Mid,Europe,USD,51000
+766,Data analyst,Entry,Cape Town,USD,30000
+770,Data analyst,Senior,Seattle,USD,68000
+771,Data analyst,Entry,Buenos Aires,USD,30000
+773,Data analyst,Executive,Bengaluru,USD,41000
+774,Data analyst,Senior,Iași,USD,63000
+775,Data analyst,Mid,Toronto,USD,40000
+777,Data analyst,Mid,Kingston,USD,51000
+778,Data analyst,Senior,Barcelona,USD,63000
+779,Data analyst,Mid,Lyon,USD,51000
+780,Data analyst,Entry,Paris,USD,30000
+781,Data analyst,Entry,Austin,USD,30000
+784,Data analyst,Senior,London,USD,63000
+786,Data analyst,Senior,Berlin,USD,63000
+787,Data analyst,Senior,Nanterre,USD,63000
+788,Data analyst,Senior,Remote - US; Remote - Canada,USD,101000
+792,Data analyst,Mid,London,USD,51000
+793,Data analyst,Mid,Ciudad de México,USD,51000
+795,Data analyst,Mid,London,USD,51000
+797,Data analyst,Senior,Philadelphia,USD,63000
+800,Data analyst,Mid,Abu Dhabi,USD,51000
+803,Data analyst,Senior,Atlanta,USD,63000
+804,Data analyst,Senior,Hanoi,USD,63000
+805,Data analyst,Senior,Amsterdam,USD,63000
+806,Data analyst,Mid,Colorado Springs,USD,100000
+808,Data analyst,Senior,Los Angeles,USD,63000
+809,Data analyst,Mid,Singapore,USD,51000
+810,Data analyst,Senior,Makati,USD,76000
+811,Data analyst,Entry,Paris,USD,30000
+813,Data analyst,Senior,Remote,USD,76000
+814,Data analyst,Senior,Arlington,USD,90000
+815,Data analyst,Senior,New York City,USD,70000
+816,Data analyst,Senior,Remote US,USD,63000
+817,Data analyst,Senior,Montreal,USD,63000
+818,Data analyst,Mid,Minato City,USD,51000
+819,Data analyst,Mid,Brampton,USD,51000
+820,Data analyst,Entry,Berchem,USD,30000
+821,Data analyst,Mid,Remote,USD,115000
+822,Data analyst,Mid,Barcelona,USD,51000
+824,Data analyst,Senior,London,GBP,57000
+825,Data analyst,Senior,Minneapolis,USD,96000
+826,Data analyst,Mid,Paris,USD,40000
+827,Data analyst,Senior,Englewood Cliffs,USD,70000
+829,Data analyst,Senior,San Francisco,USD,110000
+830,Data analyst,Entry,Tunis,USD,30000
+831,Data analyst,Mid,New York City,USD,124000
+835,Data analyst,Senior,Bengaluru,USD,63000
+838,Data analyst,Mid,Reno,USD,51000
+840,Data analyst,Mid,Paris,USD,51000
+841,Data analyst,Mid,Bengaluru,USD,51000
+844,Data analyst,Senior,Mexico City,USD,63000
+847,Data analyst,Entry,Hamburg,USD,30000
+849,Data analyst,Senior,India - Bengaluru,USD,63000
+850,Data analyst,Mid,Brazil - Remote,USD,51000
+852,Data analyst,Senior,New York,USD,70000
+853,Data analyst,Senior,Nottingham,USD,63000
+854,Data analyst,Senior,Malaysia - Kuala Lumpur,USD,63000
+855,Data analyst,Entry,Heredia,USD,30000
+856,Data analyst,Mid,United States - Remote,USD,51000
+857,Data analyst,Senior,East Windsor,USD,63000
+862,Data analyst,Mid,Reigate,USD,51000
+865,Data analyst,Executive,Hyderabad,USD,46000
+866,Data analyst,Senior,Paris,USD,63000
+867,Data analyst,Entry,West Point,USD,30000
+868,Data analyst,Senior,Casa Grande,USD,63000
+870,Data analyst,Senior,Milan,USD,63000
+872,Data analyst,Senior,Paris,USD,63000
+875,Data analyst,Senior,Montreal,USD,63000
+879,Data analyst,Senior,Stevenage,USD,63000
+881,Data analyst,Senior,Miami - will also consider remote in …,USD,63000
+882,Data analyst,Mid,London,USD,51000
+883,Data analyst,Mid,Suitland-Silver Hill,USD,51000
+884,Data analyst,Mid,Boulder,USD,160000
+886,Data analyst,Senior,Atlanta,USD,63000
+887,Data analyst,Mid,Newcastle upon Tyne,USD,51000
+888,Data analyst,Mid,Boulder,USD,109000
+889,Data analyst,Senior,Omaha,USD,63000
+891,Data analyst,Senior,Hamburg,USD,68000
+893,Data analyst,Entry,Lyon,USD,30000
+895,Data analyst,Entry,Mumbai,USD,30000
+896,Data analyst,Senior,Remote,USD,63000
+897,Data analyst,Senior,Stamford,USD,100000
+898,Data analyst,Senior,London,USD,63000
+900,Data analyst,Mid,Cork,USD,51000
+901,Data analyst,Entry,Singapore,USD,30000
+902,Data analyst,Senior,Sydney,USD,63000
+903,Data analyst,Entry,Bukit Jalil,USD,30000
+905,Data analyst,Senior,São Paulo,USD,63000
+906,Data analyst,Mid,Athens,USD,51000
+907,Data analyst,Entry,Lille,USD,30000
+908,Data analyst,Senior,London,USD,68000
+912,Data analyst,Mid,Colorado Springs,USD,100000
+914,Data analyst,Mid,Monterrey,USD,51000
+915,Data analyst,Senior,Stockholm,USD,63000
+918,Data analyst,Senior,London,USD,63000
+919,Data analyst,Senior,Bucharest,USD,63000
+920,Data analyst,Entry,Milwaukee,USD,30000
+922,Data analyst,Senior,São Paulo,USD,63000
+923,Data analyst,Senior,Nanterre,USD,63000
+924,Data analyst,Senior,Barcelona,USD,63000
+926,Data analyst,Senior,East Windsor,USD,63000
+927,Data analyst,Senior,Heredia,USD,63000
+928,Data analyst,Entry,Saint-Herblain,USD,30000
+929,Data analyst,Senior,Santa Clara,USD,130000
+930,Data analyst,Mid,Arlington,USD,51000
+931,Data analyst,Entry,Oslo,USD,30000
+933,Data analyst,Senior,Canada,USD,63000
+934,Data analyst,Senior,United States,USD,63000
+936,Data analyst,Entry,London,USD,30000
+938,Data analyst,Senior,Paris,USD,63000
+939,Data analyst,Mid,Paris,USD,51000
+940,Data analyst,Mid,Washington,USD,84000
+941,Data analyst,Senior,Santa Clara,USD,130000
+942,Data analyst,Mid,Warsaw,USD,51000
+946,Data analyst,Entry,Paris,USD,30000
+947,Data analyst,Mid,Bengaluru,USD,51000
+948,Data analyst,Senior,Liverpool,USD,63000
+951,Data analyst,Mid,Singapore,USD,51000
+952,Data analyst,Senior,Jakarta,USD,63000
+953,Data analyst,Senior,São Paulo,USD,63000
+954,Data analyst,Entry,London,USD,30000
+955,Data analyst,Entry,Remote job,USD,30000
+956,Data analyst,Senior,New York City,USD,110000
+957,Data analyst,Entry,Modena,USD,30000
+958,Data analyst,Mid,Aventura,USD,51000
+959,Data analyst,Mid,Fremont,USD,51000
+962,Data analyst,Senior,Amsterdam,USD,63000
+963,Data analyst,Senior,Bangkok,USD,63000
+967,Data analyst,Senior,Atlanta,USD,68000
+968,Data analyst,Entry,Barcelona,USD,30000
+969,Data analyst,Senior,Bangkok,USD,68000
+970,Data analyst,Senior,Poland,USD,63000
+971,Data analyst,Senior,London,USD,63000
+972,Data analyst,Senior,Bangkok,USD,63000
+974,Data analyst,Senior,USA (remote),USD,68000
+975,Data analyst,Senior,Bengaluru,USD,63000
+977,Data analyst,Mid,Bangkok,USD,51000
+978,Data analyst,Mid,London,USD,51000
+979,Data analyst,Senior,Bangkok,USD,63000
+984,Data analyst,Entry,India - Bengaluru,USD,30000
+988,Data analyst,Senior,Bengaluru,USD,63000
+989,Data analyst,Mid,Brampton,USD,51000
+990,Data analyst,Senior,Stockholm,USD,63000
+992,Data analyst,Mid,O'Fallon,USD,51000
+994,Data analyst,Mid,New York City,USD,140000
+997,Data analyst,Mid,Bengaluru,USD,51000
+999,Data analyst,Senior,United States,USD,110000
+1000,Data analyst,Mid,Richmond,USD,51000
+1001,Data analyst,Senior,Casa Grande,USD,63000
+1002,Data analyst,Mid,Southfield,USD,51000
+1003,Data analyst,Senior,Bangkok,USD,63000
+1004,Data analyst,Senior,London,USD,63000
+1006,Data analyst,Senior,West Palm Beach,USD,63000
+1010,Data analyst,Mid,İstanbul,USD,51000
+1011,Data analyst,Mid,Saint-Sauveur,USD,51000
+1013,Data analyst,Entry,Hamburg,USD,30000
+1014,Data analyst,Mid,Stuttgart,USD,51000
+1015,Data analyst,Entry,Madrid,USD,30000
+1016,Data analyst,Senior,New York City,USD,63000
+1018,Data analyst,Mid,Paris,USD,51000
+1019,Data analyst,Mid,Sydney,USD,51000
+1020,Data analyst,Senior,Bangkok,USD,63000
+1021,Data analyst,Mid,Cape Town,USD,51000
+1024,Data analyst,Senior,Ontario,USD,63000
+1027,Data analyst,Senior,Washington DC - will also consider remote …,USD,63000
+1030,Data analyst,Senior,Bengaluru,USD,63000
+1031,Data analyst,Senior,Pune,USD,63000
+1032,Data analyst,Entry,Kraków,USD,30000
+1033,Data analyst,Senior,Irving,USD,63000
+1034,Data analyst,Senior,Malaysia - Kuala Lumpur,USD,63000
+1035,Data analyst,Senior,Sydney,USD,63000
+1036,Data analyst,Senior,Montreal,USD,63000
+1038,Data analyst,Senior,United States,USD,63000
+1039,Data analyst,Mid,Boston,USD,124000
+1040,Data analyst,Senior,Remote - USA,USD,63000
+1044,Data analyst,Senior,Remote,USD,63000
+1046,Data analyst,Entry,Wien,USD,30000
+1047,Data analyst,Senior,New York City,USD,90000
+1048,Data analyst,Senior,Stamford,USD,100000
+1049,Data analyst,Entry,Kraków,USD,30000
+1054,Data analyst,Senior,Washington DC - will also consider remote …,USD,63000
+1055,Data analyst,Mid,Cairo,USD,51000
+1056,Data analyst,Mid,Colorado Springs,USD,100000
+1057,Data analyst,Mid,İstanbul,USD,51000
+1107,Data analyst,Senior,Remote (US),USD,115000
+1114,Data analyst,Senior,San Francisco,USD,129000
+1118,Data analyst,Senior,Enkhuizen,USD,68000
+1121,Data analyst,Senior,Brooklyn,USD,104000
+1131,Data analyst,Senior,Brooklyn,USD,130000
+1158,Data analyst,Mid,Paris,USD,40000
+1174,Data analyst,Entry,Mumbai,USD,30000
+1177,Data analyst,Mid,Mechelen,USD,51000
+1178,Data analyst,Senior,San Jose,USD,46000
+1180,Data analyst,Mid,Genève,USD,51000
+1181,Data analyst,Senior,Paris,USD,46000
+1183,Data analyst,Mid,Marousi,USD,51000
+1184,Data analyst,Senior,Irving,USD,68000
+1187,Data analyst,Senior,India - Bengaluru,USD,46000
+1188,Data analyst,Senior,San Francisco,USD,110000
+1189,Data analyst,Mid,Brampton,USD,51000
+1190,Data analyst,Senior,US / Remote,USD,46000
+1191,Data analyst,Senior,New York City,USD,131000
+1193,Data analyst,Senior,Dubai,USD,46000
+1194,Data analyst,Senior,Mountain View,USD,68000
+1195,Data analyst,Mid,Bengaluru,USD,51000
+1197,Data analyst,Entry,Walnut Creek,USD,30000
+1198,Data analyst,Senior,USA,USD,46000
+1199,Data analyst,Mid,Berlin,USD,51000
+1200,Big data,Senior,Remote,EUR,65000
+1201,Big data,Mid,London,USD,51000
+1202,Big data,Senior,London,USD,30000
+1203,Big data,Mid,London,USD,45000
+1204,Big data,Senior,London,USD,30000
+1205,Big data,Senior,Somerville,USD,69000
+1207,Big data,Senior,Somerville,USD,69000
+1208,Big data,Senior,London,USD,62000
+1209,Big data,Senior,London,USD,62000
+1210,Big data,Senior,London,USD,62000
+1211,Big data,Mid,London,USD,45000
+1212,Big data,Senior,Boulogne-Billancourt,USD,62000
+1213,Big data,Mid,London,USD,45000
+1214,Big data,Senior,London,USD,62000
+1215,Big data,Senior,Tel Aviv,USD,30000
+1216,Big data,Senior,Brussels,USD,62000
+1219,Big data,Senior,Boston,USD,63000
+1220,Big data,Senior,Boston - Remote,USD,63000
+1221,Big data,Senior,Porto,USD,56000
+1222,Big data,Mid,Poznań,USD,45000
+1223,Big data,Senior,London,USD,76000
+1224,Big data,Senior,Cambridge,USD,68000
+1225,Big data,Senior,Cambridge,USD,63000
+1226,Big data,Senior,London,USD,76000
+1227,Big data,Senior,Remote,USD,120000
+1230,Big data,Senior,Chicago,USD,113000
+1234,Big data,Entry,Katowice,USD,30000
+1238,Big data,Senior,Kusterdingen,USD,76000
+1240,Big data,Senior,Kyiv,USD,30000
+1242,Big data,Senior,Salt Lake City,USD,68000
+1243,Big data,Senior,Basel,USD,68000
+1254,Big data,Senior,Santa Clara,USD,171000
+1263,Big data,Senior,São Paulo,USD,30000
+1264,Big data,Senior,United States,USD,63000
+1267,Big data,Senior,San Francisco,USD,106000
+1275,Big data,Senior,Basel,USD,68000
+1277,Big data,Mid,Abu Dhabi,USD,51000
+1284,Big data,Senior,Cape Town,USD,30000
+1285,Big data,Senior,Aarhus,USD,68000
+1290,Big data,Senior,Remote,USD,68000
+1291,Big data,Senior,Jealott's Hill,USD,68000
+1295,Big data,Senior,Remote,USD,76000
+1296,Big data,Senior,Beaverton,USD,76000
+1298,Big data,Mid,Paris,USD,51000
+1305,Big data,Executive,Hyderabad,USD,46000
+1311,Big data,Senior,Dublin,USD,30000
+1313,Big data,Senior,Kusterdingen,USD,76000
+1319,Big data,Entry,Poznań,USD,30000
+1320,Big data,Senior,Singapore,USD,56000
+1323,Big data,Senior,London,USD,76000
+1327,Big data,Senior,Hyderabad,USD,30000
+1328,Big data,Senior,Warszawa,USD,30000
+1333,Big data,Senior,Poland,USD,63000
+1334,Big data,Senior,Bangkok,USD,63000
+1336,Big data,Mid,Bangkok,USD,51000
+1340,Big data,Senior,Bangkok,USD,63000
+1351,Big data,Senior,Bengaluru,USD,30000
+1353,Big data,Senior,United States,USD,63000
+1355,Big data,Senior,Bengaluru,USD,30000
+1357,Big data,Entry,Wien,USD,30000
+1363,Big data,Senior,Mexico City,USD,30000
+1365,Big data,Senior,Baar,USD,68000
+1368,Big data,Senior,Hyderabad,USD,30000
+1373,Big data,Senior,Remote,USD,100000
+1380,Big data,Mid,Bordeaux,USD,40000
+1392,Big data,Entry,Mumbai,USD,30000
+1397,Big data,Senior,Petach Tikva,USD,30000
+1398,Big data,Senior,Bengaluru,USD,30000
+1400,Big data,Senior,Remote (Anywhere US),USD,30000
+1410,Big data,Senior,New York City,USD,129000
+1413,Big data,Senior,Athens,USD,76000
+1414,Big data,Senior,Kusterdingen,USD,76000
+1416,Big data,Senior,New York City; San Francisco,USD,178000
+1421,Big data,Senior,Bangkok,USD,46000
+1424,Big data,Senior,Delhi,USD,76000
+1426,Big data,Senior,Delhi,USD,76000
+1430,Big data,Senior,Bangkok,USD,46000
+1431,Big data,Mid,Bangkok,USD,51000
+1437,Big data,Senior,Westminster,USD,100000
+1449,Big data,Mid,Toulouse,USD,30000
+1451,Big data,Senior,Vero Beach,USD,45000
+1453,Big data,Senior,India,USD,30000
+1462,Big data,Senior,Makati,USD,30000
+1463,Big data,Senior,Cartagena,USD,76000
+1464,Big data,Mid,Granada,USD,38000
+1465,Big data,Senior,Sydney,USD,30000
+1466,Big data,Senior,Remote,USD,76000
+1468,Big data,Mid,Las Vegas,USD,78000
+1469,Big data,Senior,Singapore,USD,46000
+1470,Big data,Mid,Bangkok,USD,38000
+1471,Big data,Senior,Bengaluru,USD,76000
+1472,Big data,Mid,Enkhuizen,USD,38000
+1473,Big data,Senior,Bengaluru,USD,76000
+1474,Big data,Mid,Bengaluru,USD,30000
+1475,Big data,Mid,Bengaluru,USD,30000
+1477,Big data,Mid,Bengaluru,USD,30000
+1478,Big data,Mid,Monterrey,USD,38000
+1480,Big data,Senior,Bangkok,USD,46000
+1481,Big data,Senior,Bangkok,USD,46000
+1483,Big data,Mid,Barcelona,USD,30000
+1484,Big data,Mid,Bangkok,USD,51000
+1488,Machine learning,Mid,US east coast,USD,124000
+1489,Machine learning,Executive,Montréal,USD,81000
+1490,Machine learning,Mid,Remote,USD,51000
+1491,Machine learning,Mid,Remote,USD,51000
+1492,Machine learning,Senior,Stuttgart,USD,62000
+1493,Machine learning,Mid,Remote,USD,51000
+1494,Machine learning,Senior,Boston,USD,120000
+1495,Machine learning,Senior,London,USD,68000
+1496,Machine learning,Mid,Remote,USD,51000
+1498,Machine learning,Senior,Boston,USD,120000
+1499,Machine learning,Senior,Remote Poland,USD,56000
+1501,Machine learning,Senior,Research Triangle Park,USD,69000
+1502,Machine learning,Mid,Remote,USD,51000
+1503,Machine learning,Senior,Remote Poland,USD,56000
+1504,Machine learning,Mid,Remote,USD,51000
+1505,Machine learning,Mid,Malvern,USD,56000
+1506,Machine learning,Mid,Athens,USD,51000
+1508,Machine learning,Senior,Remote Poland,USD,56000
+1509,Machine learning,Senior,Portland,USD,142000
+1510,Machine learning,Mid,Warsaw,USD,51000
+1511,Machine learning,Senior,Santa Clara,USD,69000
+1513,Machine learning,Mid,Warsaw,USD,51000
+1514,Machine learning,Mid,Warsaw,USD,51000
+1515,Machine learning,Senior,Remote,USD,62000
+1516,Machine learning,Mid,Toronto,USD,43000
+1518,Machine learning,Senior,Lisbon,USD,45000
+1520,Machine learning,Senior,Mexico,USD,185000
+1523,Machine learning,Senior,Portland,USD,142000
+1525,Machine learning,Senior,Paris,USD,45000
+1530,Machine learning,Senior,San Francisco,USD,190000
+1531,Machine learning,Senior,Seattle,USD,63000
+1534,Machine learning,Senior,United States (Remote),USD,45000
+1535,Machine learning,Entry,New York City,USD,30000
+1536,Machine learning,Senior,San Francisco,USD,201000
+1537,Machine learning,Senior,Washington,USD,81000
+1539,Machine learning,Entry,Mountain View,USD,56000
+1540,Machine learning,Senior,New York City,USD,150000
+1541,Machine learning,Senior,Seattle,USD,45000
+1543,Machine learning,Senior,Seattle,USD,45000
+1544,Machine learning,Entry,Mountain View,USD,56000
+1545,Machine learning,Senior,San Francisco,USD,165000
+1549,Machine learning,Mid,Sydney,USD,62000
+1550,Machine learning,Senior,New York City,USD,45000
+1551,Machine learning,Mid,Athens,USD,43000
+1552,Machine learning,Senior,Cambridge,USD,68000
+1555,Machine learning,Senior,Remote- US,USD,150000
+1556,Machine learning,Senior,Remote Canada,USD,63000
+1558,Machine learning,Senior,United States,USD,45000
+1562,Machine learning,Mid,Cape Town,USD,51000
+1564,Machine learning,Senior,Cambridge,USD,63000
+1570,Machine learning,Senior,New York City,USD,175000
+1580,Machine learning,Senior,Montreal,USD,56000
+1581,Machine learning,Entry,Barcelona,USD,30000
+1583,Machine learning,Mid,Athens,USD,63000
+1584,Machine learning,Mid,London,USD,43000
+1585,Machine learning,Senior,Brooklyn,USD,196000
+1586,Machine learning,Senior,Remote Canada,USD,63000
+1588,Machine learning,Senior,Kyiv,USD,30000
+1589,Machine learning,Senior,Remote - United States,USD,177000
+1590,Machine learning,Senior,Bengaluru,USD,63000
+1592,Machine learning,Senior,Lisbon,USD,45000
+1596,Machine learning,Senior,Australia,USD,45000
+1597,Machine learning,Senior,San Francisco,USD,167000
+1598,Machine learning,Senior,Sydney,USD,45000
+1599,Machine learning,Mid,Brampton,USD,43000
+1604,Machine learning,Mid,Dallas,USD,40000
+1607,Machine learning,Mid,Santiago de Querétaro,USD,45000
+1609,Machine learning,Senior,Washington,USD,81000
+1610,Machine learning,Senior,Warsaw,USD,120000
+1614,Machine learning,Senior,San Francisco,USD,120000
+1618,Machine learning,Mid,La Libertad,USD,45000
+1619,Machine learning,Mid,Santiago,USD,45000
+1624,Machine learning,Entry,Seoul,USD,30000
+1630,Machine learning,Senior,New York City,USD,200000
+1633,Machine learning,Senior,New York,USD,95000
+1634,Machine learning,Mid,Dayton,USD,40000
+1635,Machine learning,Senior,Seoul,USD,68000
+1636,Machine learning,Entry,Seattle,USD,30000
+1638,Machine learning,Mid,Paris,USD,63000
+1639,Machine learning,Mid,Emeryville,USD,135000
+1640,Machine learning,Entry,Massy - France,USD,36000
+1641,Machine learning,Senior,San Francisco,USD,68000
+1642,Machine learning,Mid,Brooklyn,USD,63000
+1645,Machine learning,Senior,Seoul,USD,45000
+1646,Machine learning,Mid,Paris,USD,63000
+1647,Machine learning,Senior,Oakville,USD,68000
+1648,Machine learning,Senior,Seoul,USD,45000
+1656,Machine learning,Senior,Munich,USD,45000
+1657,Machine learning,Senior,Lisbon,USD,45000
+1658,Machine learning,Senior,Santa Clara,USD,68000
+1659,Machine learning,Senior,Remote US,USD,45000
+1663,Machine learning,Senior,United States,USD,63000
+1666,Machine learning,Mid,United States - Remote,USD,63000
+1667,Machine learning,Entry,Calabasas,USD,120000
+1669,Machine learning,Entry,Carquefou,USD,30000
+1672,Machine learning,Mid,United States - Remote,USD,100000
+1673,Machine learning,Senior,Melbourne,USD,45000
+1674,Machine learning,Mid,New York City,USD,150000
+1676,Machine learning,Mid,Brooklyn,USD,63000
+1677,Machine learning,Senior,Seattle,USD,45000
+1678,Machine learning,Mid,United States - Remote,USD,100000
+1679,Machine learning,Mid,Ann Arbor,USD,90000
+1683,Machine learning,Entry,Roppongi,USD,56000
+1688,Machine learning,Senior,Palo Alto,USD,45000
+1695,Machine learning,Mid,United States - Remote,USD,43000
+1698,Machine learning,Mid,Nairobi,USD,43000
+1701,Machine learning,Mid,France - Remote,USD,43000
+1704,Machine learning,Entry,Toronto,USD,36000
+1705,Machine learning,Senior,Remote - US; Remote - Canada,USD,168000
+1706,Machine learning,Mid,Ahmedabad,USD,43000
+1708,Machine learning,Mid,Barcelona,USD,40000
+1710,Machine learning,Senior,New York City,USD,45000
+1713,Machine learning,Senior,San Francisco,USD,142000
+1714,Machine learning,Mid,Roppongi,USD,43000
+1716,Machine learning,Senior,Pune,USD,45000
+1717,Machine learning,Mid,Roppongi,USD,43000
+1723,Machine learning,Senior,Berlin,USD,120000
+1725,Machine learning,Senior,Remote,USD,76000
+1726,Machine learning,Senior,Remote - United States,USD,45000
+1727,Machine learning,Senior,Arlington,USD,90000
+1730,Machine learning,Senior,Aarhus,USD,68000
+1734,Machine learning,Senior,Arlington,USD,105000
+1740,Machine learning,Senior,Berlin,USD,120000
+1741,Machine learning,Mid,Brampton,USD,43000
+1746,Machine learning,Senior,London,USD,45000
+1747,Machine learning,Senior,Vancouver,USD,132000
+1749,Machine learning,Senior,Remote,USD,45000
+1750,Machine learning,Senior,Palo Alto,USD,45000
+1753,Machine learning,Entry,San Francisco,USD,140000
+1756,Machine learning,Mid,Paris,USD,51000
+1757,Machine learning,Senior,US Remote,USD,183000
+1763,Machine learning,Senior,Beaverton,USD,63000
+1767,Machine learning,Senior,Remote,USD,45000
+1769,Machine learning,Senior,Toronto,USD,68000
+1773,Machine learning,Senior,Sunnyvale,USD,63000
+1775,Machine learning,Entry,Warszawa,USD,30000
+1776,Machine learning,Mid,Brooklyn,USD,63000
+1779,Machine learning,Entry,Antwerp,USD,30000
+1786,Machine learning,Mid,Dallas,USD,40000
+1788,Machine learning,Senior,San Francisco,USD,45000
+1789,Machine learning,Mid,Remote job,USD,45000
+1795,Machine learning,Senior,Bengaluru,USD,76000
+1796,Machine learning,Senior,London,USD,68000
+1797,Machine learning,Mid,Barcelona,USD,43000
+1799,Machine learning,Senior,Remote,USD,76000
+1800,Machine learning,Senior,Paris | Remote,EUR,70000
+1801,Machine learning,Senior,Amsterdam,USD,120000
+1803,Machine learning,Senior,Amsterdam,USD,45000
+1804,Machine learning,Senior,Remote - Uruguay,USD,45000
+1805,Machine learning,Senior,Vietnam - Remote,USD,76000
+1806,Machine learning,Mid,Budapest,USD,45000
+1808,Machine learning,Entry,Poznań,USD,30000
+1809,Machine learning,Senior,Singapore,USD,56000
+1811,Machine learning,Entry,Oslo,USD,30000
+1815,Machine learning,Senior,London,USD,45000
+1821,Machine learning,Senior,Bangkok,USD,68000
+1824,Machine learning,Senior,United States,USD,45000
+1825,Machine learning,Senior,Bangkok,USD,63000
+1827,Machine learning,Senior,New York,USD,145000
+1828,Machine learning,Senior,tel aviv,USD,45000
+1831,Machine learning,Senior,United States,USD,145000
+1833,Machine learning,Mid,Brampton,USD,43000
+1840,Machine learning,Senior,Remote,USD,45000
+1845,Machine learning,Senior,Palo Alto,USD,45000
+1846,Machine learning,Executive,New York City - Boston,USD,110000
+1848,Machine learning,Senior,Bangkok,USD,63000
+1849,Machine learning,Senior,Remote,USD,45000
+1852,Machine learning,Mid,Markham,USD,43000
+1856,Machine learning,Senior,Toronto,USD,120000
+1857,Machine learning,Senior,India,USD,45000
+1859,Machine learning,Senior,United States,USD,45000
+1860,Machine learning,Mid,Spain - Remote,USD,40000
+1861,Machine learning,Senior,Remote,USD,45000
+1864,Machine learning,Mid,London,GBP,40000
+1867,Machine learning,Senior,San Francisco,USD,45000
+1868,Machine learning,Senior,Bengaluru,USD,45000
+1870,Machine learning,Senior,Tampere,USD,45000
+1871,Machine learning,Entry,Sofia,USD,30000
+1872,Machine learning,Senior,US Remote,USD,163000
+1873,Machine learning,Senior,United States,USD,45000
+1877,Machine learning,Senior,London,USD,45000
+1881,Machine learning,Senior,Brooklyn,USD,196000
+1883,Machine learning,Senior,US Remote,USD,120000
+1884,Machine learning,Senior,United States,USD,63000
+1885,Machine learning,Senior,Remote - USA,USD,63000
+1886,Machine learning,Senior,United States,USD,45000
+1887,Machine learning,Senior,United States,USD,45000
+1889,Machine learning,Senior,Remote,USD,45000
+1890,Machine learning,Executive,United States,USD,43000
+1896,Machine learning,Senior,Canada,USD,45000
+1900,Machine learning,Mid,Cambridge,USD,30000
+1905,Machine learning,Senior,Indianapolis,USD,68000
+1911,Machine learning,Mid,Bengaluru,USD,63000
+1914,Machine learning,Senior,Toronto,USD,45000
+1920,Machine learning,Senior,Work from Home,USD,45000
+1923,Machine learning,Senior,New York City,USD,81000
+1924,Machine learning,Senior,Munich,USD,45000
+1927,Machine learning,Mid,New York City,USD,43000
+1928,Machine learning,Senior,New York City; San Francisco,USD,141000
+1929,Machine learning,Entry,Seattle,USD,30000
+1932,Machine learning,Senior,Los Angeles,USD,103000
+1934,Machine learning,Mid,Lisbon,USD,63000
+1938,Machine learning,Mid,Roppongi,USD,62000
+1939,Machine learning,Senior,Valencia,USD,68000
+1941,Machine learning,Senior,Remote,USD,100000
+1946,Machine learning,Senior,Remote Canada,USD,45000
+1949,Machine learning,Mid,South Jakarta,USD,43000
+1955,Machine learning,Senior,Seattle,USD,68000
+1958,Machine learning,Senior,Canada,USD,45000
+1960,Machine learning,Senior,London,USD,63000
+1961,Machine learning,Mid,Roppongi,USD,62000
+1972,Machine learning,Senior,Mountain View,USD,56000
+1975,Machine learning,Senior,Palo Alto,USD,68000
+1981,Machine learning,Senior,Bengaluru,USD,68000
+1985,Machine learning,Senior,Dublin,USD,45000
+1986,Machine learning,Senior,Berlin,USD,68000
+1987,Machine learning,Senior,Atlanta,USD,76000
+1988,Machine learning,Mid,Mandaluyong,USD,43000
+1990,Machine learning,Senior,Atlanta,USD,76000
+1991,Machine learning,Senior,Remote,USD,45000
+1993,Machine learning,Mid,Brampton,USD,43000
+1996,Machine learning,Senior,London,USD,45000
+1998,Machine learning,Senior,San Francisco,USD,142000
+1999,Machine learning,Executive,Singapore,USD,43000
+2001,Machine learning,Senior,Toronto,USD,228000
+2003,Machine learning,Senior,Bengaluru,USD,45000
+2004,Machine learning,Executive,San Francisco,USD,175000
+2006,Machine learning,Mid,Greenville,USD,38000
+2007,Machine learning,Senior,San Jose,USD,56000
+2010,Machine learning,Senior,Bengaluru,USD,45000
+2011,Machine learning,Senior,San Francisco,USD,45000
+2016,Machine learning,Senior,Seoul,USD,68000
+2017,Machine learning,Entry,Seoul,USD,30000
+2028,Machine learning,Senior,San Jose,USD,45000
+2031,Machine learning,Senior,Brooklyn,USD,184000
+2032,Machine learning,Senior,Bengaluru,USD,45000
+2033,Machine learning,Senior,San Jose,USD,45000
+2034,Machine learning,Mid,Berkeley,USD,43000
+2045,Machine learning,Senior,Seoul,USD,45000
+2047,Machine learning,Senior,San Francisco,USD,142000
+2049,Machine learning,Senior,Santa Clara,USD,45000
+2050,Machine learning,Senior,Munich,USD,45000
+2051,Machine learning,Entry,Antwerp,USD,30000
+2053,Machine learning,Mid,United States,USD,43000
+2054,Machine learning,Senior,San Francisco,USD,172000
+2055,Machine learning,Senior,Sunnyvale,USD,56000
+2056,Machine learning,Senior,Lexington,USD,68000
+2057,Machine learning,Senior,Sunnyvale,USD,56000
+2060,Machine learning,Senior,London,USD,45000
+2062,Machine learning,Senior,New York City,USD,45000
+2063,Machine learning,Senior,Bangkok,USD,46000
+2064,Machine learning,Senior,Portugal,USD,45000
+2065,Machine learning,Entry,Santa Clara,USD,36000
+2066,Machine learning,Mid,London,GBP,65000
+2069,Machine learning,Senior,Boston,USD,115000
+2072,Machine learning,Senior,Pune,USD,45000
+2074,Machine learning,Senior,San Francisco,USD,142000
+2075,Machine learning,Senior,Delhi,USD,76000
+2079,Machine learning,Mid,Warsaw,USD,43000
+2081,Machine learning,Senior,Bangkok,USD,46000
+2083,Machine learning,Mid,Kraków,USD,43000
+2090,Machine learning,Senior,Bengaluru,USD,68000
+2094,Machine learning,Senior,Wrocław,USD,45000
+2098,Machine learning,Senior,Wrocław,USD,45000
+2099,Machine learning,Senior,New York City,USD,119000
+2100,Machine learning,Senior,San Francisco,USD,147000
+2101,Machine learning,Senior,Basel,USD,45000
+2105,Machine learning,Senior,Palo Alto,USD,45000
+2106,Machine learning,Senior,Abu Dhabi,USD,68000
+2107,Machine learning,Senior,India,USD,68000
+2109,Machine learning,Senior,United States,USD,45000
+2111,Machine learning,Senior,České Budějovice,USD,68000
+2114,Machine learning,Senior,San Francisco,USD,68000
+2118,Machine learning,Mid,Toulouse,USD,30000
+2119,Machine learning,Senior,Ballerup,USD,76000
+2122,Machine learning,Senior,Vero Beach,USD,45000
+2124,Machine learning,Mid,Ho Chi Minh City,USD,38000
+2130,Machine learning,Entry,Paris,USD,30000
+2134,Machine learning,Entry,Palo Alto,USD,30000
+2139,Machine learning,Senior,Poland,USD,45000
+2144,Machine learning,Senior,UK/EU or compatible timezone (Remote),USD,45000
+2147,Machine learning,Senior,San Francisco,USD,45000
+2149,Machine learning,Mid,Brampton,USD,43000
+2161,Machine learning,Senior,Remote,USD,68000
+2170,Machine learning,Entry,Stuttgart,USD,30000
+2172,Machine learning,Senior,Toronto,USD,45000
+2178,Machine learning,Senior,United States,USD,45000
+2180,Machine learning,Senior,Remote,USD,45000
+2181,Machine learning,Mid,Ann Arbor,USD,90000
+2188,ML Ops,Mid,US east coast,USD,124000
+2189,ML Ops,Entry,North Sydney,USD,35000
+2190,ML Ops,Senior,Berlin,USD,62000
+2191,ML Ops,Mid,Malvern,USD,56000
+2201,ML Ops,Mid,London,USD,43000
+2202,ML Ops,Mid,Santiago de Querétaro,USD,45000
+2205,ML Ops,Mid,La Libertad,USD,45000
+2206,ML Ops,Mid,Santiago,USD,45000
+2208,ML Ops,Senior,San Francisco,USD,68000
+2225,ML Ops,Entry,San Diego,USD,58000
+2232,ML Ops,Senior,Toronto,USD,45000
+2237,ML Ops,Senior,New York City; San Francisco,USD,141000
+2239,ML Ops,Senior,New York City / Remote,USD,55000
+2240,ML Ops,Senior,Remote,USD,100000
+2243,ML Ops,Senior,Toronto,USD,228000
+2249,ML Ops,Senior,Boston,USD,115000
+2250,ML Ops,Senior,Delhi,USD,76000
+2255,ML Ops,Senior,San Francisco,USD,68000
+2259,ML Ops,Senior,New York City,USD,135000
